@@ -39,5 +39,5 @@
 
 **社交主页**托管在**coding pages**绑定在主域名下，见https://arginsen.com
 
-**随笔**由**hexo**+**coding pages**搭建，见https://www.arginsen.com/essay
+**随笔**由**hexo**+**coding pages**搭建，见https://arginsen.coding.me/essay
 
