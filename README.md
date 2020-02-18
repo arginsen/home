@@ -1,15 +1,8 @@
-# 补充
 
-
-部署工作已全面转移coding pages
-
-2019.3.31更新
-
----
 
 # 项目
 
-[主页](https://www.arginsen.com)+[博客](https://www.rginsen.com/blog)构建
+[主页](https://lixupeng.cn/home)+[博客](https://lixupeng.cn/blog)构建
 
 ## 主页说明
 
@@ -32,21 +25,4 @@
 再在域名解析页将****www**二级域解析至`xxxxxxxx.cloudfront.net`
 借此得以加速，但经常断掉，故取消
 
-## 博客说明
-
-博客项目见https://github.com/arginsen/blog/
-
-由**hexo**驱动，主题选用[itimetraveler](https://itimetraveler.github.io/hexo-theme-hipaper/)同学
-
-博客不同与此主页，博客是作为技术学习的博客存在
-
-所以在github好管理，也方便交流查看
-
-预览见：https://www.arginsen.com/blog
-
-## 后话
-
-**社交主页**托管在**coding pages**绑定在主域名下，见https://arginsen.com
-
-**随笔**由**hexo**+**coding pages**搭建，见https://arginsen.coding.me/essay
 
