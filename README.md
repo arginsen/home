@@ -2,19 +2,19 @@
 
 # 项目
 
-[主页](https://lixupeng.cn)+[博客](https://lixupeng.cn/blog)构建
+[h5主页](https://www.lixupeng.cn)+[博客](https://lixupeng.cn/blog)构建
 
 ## 主页说明
 
-`arginsen.github.io`项目作为个人自定义网站
+`arginsen.github.io`项目作为个人自定义网站,地址https://lixupeng.cn
 
 托管在GitHub，主页选自[数学家](https://zhwangart.github.io/)同学
 
-其下项目作为主站的分支：`arginsen.github.io/blog/`
+其下项目作为主站的分支：`arginsen.github.io/home/`
 
 以此使**GitHub pages**托管我的主页和下支的博客
 
-**GitHub pages**上的[主页](https://lixupeng.cn)作为个人的h5主页测试页
+**GitHub pages**上的[h5主页](https://lixupeng.cn/home)作为个人的h5主页测试页,同时托管在腾讯开发平台[h5主页](https://www.lixupeng.cn)
 
 由于个人网站未能备案，所以不能启用腾讯云/七牛云CDN加速
 
